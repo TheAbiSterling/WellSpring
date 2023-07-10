@@ -1,0 +1,121 @@
+{
+  "Header": {
+    "title": "WellSpring",
+    "paragraph": "Are you far away? Got busy schedules? Do you need to speak with a therapist? We've got you covered!"
+  },
+
+  "About": {
+    "paragraph": [
+      "WellSpring is a new entry in the medical industry here in Nigeria with the hopes of eradicating the factors responsible for the increment in suicidal rates across the globe.",
+      "Our primary objective is to ensure an all-round well-being in alignment with the Sustainable Development Goals (SDGs) by putting preventive measures for mental health in place.",
+      "We are a free digital healthcare service provider that focuses on serving as a safe haven for all individuals within and beyond our community through confidential online therapy sessions.",
+      "Our platform gives you the opportunity to connect with medical experts that are eager to diagnose and care for you all through these phases.",
+      "Our organization boost of highly certified professionals, from psychologists to mental health practitioners, nurses, medical doctors to pharmacists and social workers."
+    ],
+
+    "Why": [
+      "Well structured measures to reduce suicidal rates across the world.",
+      "Opportunity to safe time and cost while you heal at your own pace.",
+      "You'll have the privilege to speak with competent and confidential professionals.",
+      "We are the trusted solution providing app and website for mental health counselling."
+    ],
+    "Why2": [
+      "We help curb emotional triggers that leads to Mental Health Issues.",
+      "Our conservational mode of delivery helps our clients embrace openness.",
+      "Opportunity to track your progress through your healing journey.",
+      "We create a balance between the physical and psychological lifestyle of our clients."
+    ]
+  },
+
+  "Features": [
+    {
+      "icon": "fa fa-music",
+      "name": "Soul Music",
+      "text": "A therapeutic way to unleash inner stress."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Yoga and Meditation",
+      "text": "Let go of emotional burden through yoga and meditation sessions."
+    },
+    {
+      "icon": "fa fa-heartbeat",
+      "name": "Exercise",
+      "text": "A healthy body houses a happy mind."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Track Your Progress",
+      "text": "Track your progress anywhere in the world."
+    },
+    {
+      "icon": "fa fa-gamepad",
+      "name": "Games",
+      "text": "Engage in mind tasking games."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Chat Session",
+      "text": "Connect with both professionals and other clients across the world."
+    }
+  ],
+  "Support": [
+    {
+      "img": "/img/testimonials/07.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "John Akins"
+    },
+    {
+      "img": "/img/testimonials/08.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "Laila Armstrong"
+    },
+    {
+      "img": "img/testimonials/09.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "Norman Fann"
+    },
+    {
+      "img": "img/testimonials/10.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "Ann May"
+    },
+    {
+      "img": "img/testimonials/11.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "Victor Cole"
+    },
+    {
+      "img": "img/testimonials/12.jpg",
+      "text": "WellSpring has been of great help towards my healing journey.",
+      "name": "Skylar Jones"
+    }
+  ],
+
+  "Services": [
+    {
+      "icon": "fa fa-user",
+      "title": "Individuals",
+      "text": "Therapy Session For Single Young Adults."
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "title": "Couples",
+      "text": "Therapy Session For Couples."
+    },
+    {
+      "icon": "fa fa-child",
+      "title": "Teens",
+      "text": "Therapy Session For Teenage Boys and Girls."
+    }
+  ],
+
+  "Contact": {
+    "address": "1234 Lagos State, Nigeria ",
+    "phone": "+0 123 456 6789",
+    "email": "hi@wellspring.org",
+    "facebook": "wellspring.com",
+    "twitter": "wellspring.com",
+    "youtube": "wellspring.com"
+  }
+}
